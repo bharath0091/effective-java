@@ -1,2 +1,2 @@
 # effective-java
-just to test different possibility
+just to test different possibilities
